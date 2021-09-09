@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarlonAgudeloT
-- 👀 I’m interested in Python, Java, SQL.
+- 👀 I’m interested in Python, Java, JS, Html, CSS, SQL.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
