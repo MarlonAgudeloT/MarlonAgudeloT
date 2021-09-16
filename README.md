@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarlonAgudeloT
 - 👀 I’m interested in Python, Java, JS, Html, CSS, SQL.
 - 🌱 I’m currently learning Java,HTML,CSS,Js
-- 💞️ I’m looking to collaborate on Algorithmic Trading, Desarrollo web
+- 💞️ I’m looking to collaborate on Algorithmic Trading, Web development.
 - 📫 How to reach me ...
 
 <!---
